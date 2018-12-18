@@ -6,6 +6,7 @@
   <PropertyGroup>
     <VersionPrefix>3.0.0</VersionPrefix>
     <PreReleaseVersionLabel>preview</PreReleaseVersionLabel>
+    <IncludeSourceRevisionInInformationalVersion>False</IncludeSourceRevisionInInformationalVersion>
     <UsingToolNetFrameworkReferenceAssemblies>True</UsingToolNetFrameworkReferenceAssemblies>
     <UsingToolXliff>False</UsingToolXliff>
   </PropertyGroup>
